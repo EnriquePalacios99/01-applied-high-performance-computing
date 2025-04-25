@@ -66,6 +66,9 @@ mismo espacio f´ısico
 
 Cada procesador está conectado a una memoria local, y ningún otro tiene acceso a esta memoria. Los procesadores se comunican a través de una red enviando y recibiendo mensajes de los otros procesadores.
 
+Comentario: 
+El P se puedo convertir en un factor dividido entre los procesadores
+
 ---
 
 ## Sistema Híbrido
