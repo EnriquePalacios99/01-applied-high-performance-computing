@@ -3,9 +3,10 @@
 ## Contenido: Explicación y Preguntas de Práctica
 
 ### Introducción
-Breve descripción del tema que se abordará en la clase.
+Se continuará con la segunda parte parte restante de la case anterior
 
-#### Preguntas de Práctica
+#### Preguntas de Práctica de reaps ode la clase anterior 
+
 - ¿Cuál es el propósito principal de esta clase?
 
 ---
@@ -31,8 +32,29 @@ Breve descripción del tema que se abordará en la clase.
 
 ### Desarrollo del Tema
 
-#### Subtema 1
-Explicación detallada del subtema 1.
+#### Memoria compartida 
+
+Se trata de revisar al alta eficiencia y la eficacia en cómputo para ver la escalabilidad del algoritmo y responder al negocio y ello es escalable o ya no se debe invertir en ello 
+
+
+###### UMA vs ccNUMA 
+Procesos ocupan un mismo espacio físico, y comparten memoria. 
+
+**UMA:** Uniform Memory
+Access, es un modelo
+’plano’ de acceso a
+memoria (latencia = ancho
+de banda)
+
+
+**ccNUMA:** 
+
+Cache Coherent Non-uniform Memory Access,
+la memoria está físicamente distribuida, pero una red
+lógica permite que funcione como memoria en un
+mismo espacio f´ısico
+
+
 
 #### Preguntas de Práctica
 - ¿Cuáles son los puntos clave del Subtema 1?
@@ -53,10 +75,3 @@ Explicación detallada del subtema 2.
 - ¿Cómo se resolvió el **Ejemplo 1**?
 - ¿Qué aprendimos del **Ejemplo 2**?
 
----
-
-### Conclusiones
-Resumen de los puntos clave tratados en la clase.
-
-#### Preguntas de Práctica
-- ¿Qué ideas principales se deben recordar de esta clase?
